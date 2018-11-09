@@ -1,7 +1,7 @@
 package uk.co.placona.helloWorld;
 
 public class HelloWorld {
-Lars
+Lars1
 	public String sayHello() {
 		return "Hello World";
 	}
